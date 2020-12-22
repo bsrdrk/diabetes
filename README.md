@@ -24,7 +24,7 @@ Using this table, we can calculate Precision and Recall values.
 
 |  | Description |
 | --- | --- |
-| Precision | True Positive / (True Positive + True Negative) |
+| Precision | True Positive / (True Positive + False Positive) |
 | Recall| True Positive / (True Positive + False Negative) |
 | F1-Score| 2 / (1/Precision + 1/Recall ) |
 
