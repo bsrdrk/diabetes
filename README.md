@@ -46,6 +46,8 @@ As we can see, RandomForestClassifier gives the best result.
 ### Accuracy Scores 
 I drew a bar chart to compare the accuracy scores of the models.
 ![](/images/barplot.png)
+
+
 ### ROC AUC Score
 AUC - ROC curve is a performance measurement for classification problem at various thresholds settings.  
          - |  -
@@ -58,7 +60,8 @@ As you can see, RandomForestClassifier gives the best results here.
 ## Training 
 After comparing the above models, I decided that the best model for this dataset is RandomForestClassifier and created my model.
 
-## Interface
+## Interface 
+
 ![](/images/diabetes_readme.png)
 
 You can learn the result with the 'Check' button and 'Reset' all data with the reset button.
