@@ -45,6 +45,7 @@ Then I examined the f1 scores of my models.
 As we can see, RandomForestClassifier gives the best result.
 ### Accuracy Scores 
 I drew a bar chart to compare the accuracy scores of the models.
+
 ![](/images/barplot.png)
 
 
